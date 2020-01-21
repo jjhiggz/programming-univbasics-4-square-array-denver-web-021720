@@ -4,4 +4,5 @@ counter = 0
   array[counter]=array[counter]**2
   counter=counter+1
 end    
+return array
 end
